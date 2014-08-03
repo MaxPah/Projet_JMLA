@@ -172,6 +172,8 @@
 	background: #26292E;
   	padding: 16px 20px;
 	border: none;
+	color: #ffffff !important;
+	text-align: justify;
 }
 
 /* ==================================================
